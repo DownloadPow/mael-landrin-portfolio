@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e75e34c315b5a6d12da6544e79fa3628",
+    "revision": "8bd531310dcc18081b1b8c88a601c7cd",
     "url": "/mael-landrin/index.html"
   },
   {
-    "revision": "ede17ced68a06ba7627c",
+    "revision": "b9a62365f736eb123021",
     "url": "/mael-landrin/static/css/2.f26a4486.chunk.css"
   },
   {
-    "revision": "e1baaf2d240e475bb0b7",
-    "url": "/mael-landrin/static/css/main.8ab24214.chunk.css"
+    "revision": "b2c569fee6960739e8fb",
+    "url": "/mael-landrin/static/css/main.e5c7b5ec.chunk.css"
   },
   {
-    "revision": "ede17ced68a06ba7627c",
-    "url": "/mael-landrin/static/js/2.d44beaab.chunk.js"
+    "revision": "b9a62365f736eb123021",
+    "url": "/mael-landrin/static/js/2.25a1e7da.chunk.js"
   },
   {
     "revision": "164310206340885b8476909e198524f6",
-    "url": "/mael-landrin/static/js/2.d44beaab.chunk.js.LICENSE.txt"
+    "url": "/mael-landrin/static/js/2.25a1e7da.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e1baaf2d240e475bb0b7",
-    "url": "/mael-landrin/static/js/main.470fdae9.chunk.js"
+    "revision": "b2c569fee6960739e8fb",
+    "url": "/mael-landrin/static/js/main.9883bf10.chunk.js"
   },
   {
     "revision": "3d11dd024481e26e909d",
