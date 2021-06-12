@@ -4,7 +4,7 @@
   "private": true,
   "homepage": "https://MonkeyFeeder.github.io/mael-landrin/",
   "dependencies": {
-    "@firebase/storage": "^0.3.41",
+    "@firebase/storage": "^0.5.2",
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
     "@testing-library/user-event": "^7.2.1",
