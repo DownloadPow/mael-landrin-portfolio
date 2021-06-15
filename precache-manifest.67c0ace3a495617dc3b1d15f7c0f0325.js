@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "abd5221da578eccea80b0b46d80ed0da",
+    "revision": "afdd74b4a123f5e8624d75e8f1320384",
     "url": "/mael-landrin/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mael-landrin/static/css/2.36b24042.chunk.css"
   },
   {
-    "revision": "0e0a4dfac30fc1ec2b67",
+    "revision": "5b50ee1d12c1dc2579c9",
     "url": "/mael-landrin/static/css/main.6b76f31d.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mael-landrin/static/js/2.c4fa7b0d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0e0a4dfac30fc1ec2b67",
-    "url": "/mael-landrin/static/js/main.e26a8f6c.chunk.js"
+    "revision": "5b50ee1d12c1dc2579c9",
+    "url": "/mael-landrin/static/js/main.30f3f2a0.chunk.js"
   },
   {
     "revision": "3d11dd024481e26e909d",
